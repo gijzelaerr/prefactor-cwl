@@ -1,14 +1,14 @@
 # prefactor-cwl
 CWL version of prefactor
 
-https://github.com/lofar-astron/prefactor/
+https://github.com/EOSC-LOFAR/prefactor-cwl
 
 [![Build Status](https://travis-ci.org/gijzelaerr/prefactor-cwl.svg?branch=master)](https://travis-ci.org/gijzelaerr/prefactor-cwl)
 
 # requirements
 
 * [Docker](https://www.docker.com/)
-* A [CWL](http://www.commonwl.org/) runner (like [CWLtool](https://github.com/common-workflow-language/cwltool))
+* A [CWL](http://www.commonwl.org/) runner (like [the reference CWL runner](https://github.com/common-workflow-language/cwltool))
 # usage
 
 
