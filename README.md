@@ -69,7 +69,7 @@ way to set this up is using [spack](https://github.com/spack/spack).
 
 ```bash
 $ git clone https://github.com/spack/spack
-$ spack/share/spack/setup-env.sh
+$ . spack/share/spack/setup-env.sh
 $ spack install node-js
 $ spack load node-js
 ```
